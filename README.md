@@ -5,5 +5,5 @@
 
 ## Демонстрація роботи
 ### Виконані гітхаб курси:
-![Hello GitHub Actions](https://github.com/mLeviGen/kpz-skills1)
-![Publish Packages](https://github.com/mLeviGen/kpz-skills2)
+#### [Hello GitHub Actions](https://github.com/mLeviGen/kpz-skills1)
+#### [Publish Packages](https://github.com/mLeviGen/kpz-skills2)
