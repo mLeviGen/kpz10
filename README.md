@@ -9,7 +9,10 @@
 - [Publish Packages](https://github.com/mLeviGen/kpz-skills2)
 
 ### Actions
-![actions](imgs/actions.jpg)
+![Actions](imgs/actions.jpg)
+
+### Workflow
+![Workflow](github.com/mLeviGen/.github/workflows/frontend-cd.yml)
 
 ### Створений пакет:
-![pkgs](imgs/pkgs.jpg)
+![Pkgs](imgs/pkgs.jpg)
