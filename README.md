@@ -7,3 +7,9 @@
 ### Виконані гітхаб курси:
 - [Hello GitHub Actions](https://github.com/mLeviGen/kpz-skills1)
 - [Publish Packages](https://github.com/mLeviGen/kpz-skills2)
+
+### Actions
+![actions](imgs/actions.jpg)
+
+### Створений пакет:
+![pkgs](imgs/pkgs.jpg)
