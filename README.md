@@ -12,7 +12,7 @@
 ![Actions](imgs/actions.jpg)
 
 ### Workflow
-![Workflow](github.com/mLeviGen/.github/workflows/frontend-cd.yml)
+![Workflow](https://github.com/mLeviGen/.github/workflows/frontend-cd.yml)
 
 ### Створений пакет:
 ![Pkgs](imgs/pkgs.jpg)
